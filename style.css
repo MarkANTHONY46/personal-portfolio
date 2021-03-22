@@ -1,0 +1,44 @@
+/**************************************
+**main css file for portfolio website**
+**created by Mark                    **
+**on march 2021                      **
+**************************************/
+/*{
+    box-sizing: border-box;
+}*/
+nav{
+    padding: 30px;
+    color: rgb(70, 22, 22);
+    background-color:#629749;
+}
+
+header{
+    background-color: #33691e;
+}
+
+body{
+    font-family: "open sans",sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+    text-align: left;
+    background-image: url("/images/2-ocean.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+a{
+    color: burlywood;
+    border:brown 2px solid;
+    padding: 5px;
+
+}
+
+footer{
+    background-color:#629749;
+}
+
+table{
+    border-collapse: collapse;
+}
